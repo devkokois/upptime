@@ -3,19 +3,50 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: MFG
+    url: https://myfashiongrosir.com/
+  - name: MFG API
+    url: https://api.myfashiongrosir.com/
+  - name: MFG Wholesale BE
+    url: https://api-wholesale.myfashiongrosir.com/
+  - name: MFG Wholesale FE - User
+    url: https://wholesale.myfashiongrosir.com/
+  - name: MFG Wholesale FE - Dashboard
+    url: https://portal-wholesale.myfashiongrosir.com/
+  - name: MFG Dropship BE
+    url: https://api-dropship.myfashiongrosir.com/v2/Profile/paketSubscription
+  - name: MFG Dropship FE - User
+    url: https://dropship.myfashiongrosir.com/
+  - name: MFG Dropship FE - Dashboard
+    url: https://dash-dropship.myfashiongrosir.com/login
+  - name: MFG Textile BE
+    url: https://api-textile.myfashiongrosir.com/
+  - name: MFG Textile FE - User
+    url: https://textile.myfashiongrosir.com/
+  - name: MFG Textile FE - Dashboard
+    url: https://dash-textile.myfashiongrosir.com/
+  - name: MFG Custom
+    url: https://custom.myfashiongrosir.com/
+  - name: Automations
+    url: https://automations.kokois.org/
+  - name: Weton Kaya BE
+    url: https://api.wetonkaya.com/
+  - name: Weton Kaya FE - User
+    url: https://wetonkaya.com/
+  - name: Weton Kaya FE - Dashboard
+    url: https://jadikaya.wetonkaya.com/
+  - name: Peta Pajak BE
+    url: https://api.petapajak.ai/health
+  - name: Peta Pajak FE - User
+    url: https://petapajak.ai/
+  - name: Peta Pajak FE - Dashboard
+    url: https://dashboard.petapajak.ai/
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.kokois.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
